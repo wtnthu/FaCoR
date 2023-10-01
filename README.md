@@ -7,7 +7,7 @@ The source code for the paper: "Kinship Representation Learning with Face Compon
 
 	conda env create -f environment.yml
 
-**2.Download the THz Dataset as below: **
+**2.Download the THz Dataset as below:**
 
 	https://drive.google.com/file/d/1pWRAhHSZYFb54qC3dUDCgtmSfOCmqgp3/view?usp=sharing
 
